@@ -33,7 +33,33 @@ A layered bar chart showing Entry, Mid, Senior, and Executive salary progression
 Pie chart showing salary gap in portion.
 map chart signifying salary range.
 
-IN ANALYSIS- OBSERVATION
+POTENTIAL QUESTIONS
+1.⁠ ⁠What is the average salary growth as employees move from mid-level to senior-level roles?
+
+2.⁠ ⁠What is the salary gap between part-time and full-time employees?
+
+3.⁠ ⁠Which job roles command the highest salaries?
+
+4.⁠ ⁠Which locations offer the highest average salaries for the same role?
+
+5.⁠ ⁠Do larger companies pay more than small or medium companies?
+
+EXPECTED INSIGHTS
+1.⁠ ⁠Salaries are expected to increase significantly when moving from mid-level to senior-level, reflecting higher responsibility and leadership.
+
+2.⁠ ⁠Full-time employees typically earn higher annual salaries.
+
+3.⁠ ⁠Executive and specialized technical roles (e.g., Directors, Senior Scientists, Data Scientists, Software Architects) usually rank highest.
+
+4.⁠ ⁠Entry or support roles e.g, Coordinators, Associates tend to have the lowest salaries.
+
+5.⁠ ⁠Developed countries e.g, US, UK, Switzerland, Germany, typically show the highest pay for the same job title.
+
+6.⁠ ⁠Developing regions e.g., India, Philippines usually have lower salaries, even for equivalent roles.
+
+7.⁠ ⁠larger companies generally pay more, as they have bigger budgets, global exposure, and structured pay scales.
+
+IN ANALYSIS OBSERVATION
 
 This dataset captures a global view of employees salaries and work structures. It combines details about how people work (employment type, remote ratio), what they do (job titles), where they live and work (residence vs company location), and organizational characteristics (company size).
 
