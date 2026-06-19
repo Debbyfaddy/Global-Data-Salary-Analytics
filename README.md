@@ -16,15 +16,15 @@ Human Resource Managers Talent Acquisition Teams Senior Management and Executive
 
 Category One (independent value) 
 
-Experience_Level 
-Employment_Type
+Experience Level 
+Employment Type
 Job_Title
-Company_Location
-Company_Size
+Company Location
+Company Size
 
 Category two (dependent value)
 
-Salary_in_usd
+Salary in usd
 
 INDUSTRY TYPE
 
