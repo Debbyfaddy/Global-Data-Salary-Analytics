@@ -4,17 +4,29 @@
 
 I'm delighted to share my very first post on this platform as i progress with my learning as a Data analyst @VephlaUni. I built this dashboard to explore global salary trends across experience levels, job roles, company sizes and regions.
 
-DATA SPLITTING AND PROCESSING
+**INTRODUCTION**
 
-Data Cleaning
+This project focuses on analyzing global salary trends within the data industry using workforce analytics and data visualization techniques. The dashboard explores how factors such as experience level, employment type, job title, company size, and geographical location influence salary distribution across different regions.
+The analysis provides valuable insights into workforce compensation patterns, career progression, and regional pay differences while demonstrating practical skills in data cleaning, preprocessing, visualization, and dashboard creation using Excel.
+
+Sorting and filtering were used to identify top regions, roles, and salary categories. Conditional formatting highlighted important trends and comparisons in the data.
+Calculated fields supported deeper analysis by producing average salaries, workforce distribution percentages, and regional comparisons.
+
+**KEY  DATA AND METHOLDOLOGY**
+
+For the dashboard, Excel visual tools such as line charts, bar charts, pie and donut charts, KPI cards, and geographical maps were used to display insights, while slicers allowed interactive data filtering.
+
+**DATA SPLITTING AND PROCESSING**
+
+**Data Cleaning**
 
 To ensure the dataset was accurate, reliable, and ready for analysis, several data cleaning steps were performed. Duplicate records were checked and removed to avoid repeated salary counts that could distort salary averages and trends. Inconsistent entries in categorical variables such as employment type, company size, and experience level were standardized for uniformity. Errors in salary formatting and country naming conventions were corrected to improve consistency across the dataset. Columns that were not relevant to the analysis were excluded to maintain focus on the core workforce and salary indicators.
 
-STAKE HOLDERS
+**STAKE HOLDERS**
 
 Human Resource Managers Talent Acquisition Teams Senior Management and Executives
 
-Category One (independent value) 
+**Category One (independent value)** 
 
 Experience Level 
 Employment Type
@@ -22,26 +34,27 @@ Job_Title
 Company Location
 Company Size
 
-Category two (dependent value)
+**Category two (dependent value)**
 
 Salary in usd
 
-INDUSTRY TYPE
+**INDUSTRY TYPE**
 
 Workforce Analytics
                                                                         
-STORY OF DATA
+**STORY OF DATA**
 
 This dataset captures a global view of employees salaries and work structures. It combines details about how people work (employment type, remote ratio), what they do (job titles), where they live and work (residence vs company location), and organizational characteristics (company size).
 
-DATA VISUALIZATION AND CHARTS
+**DATA VISUALIZATION AND CHARTS**
 
 Coulumn chart comparing company size by salary, and job title by salary
 A layered bar chart showing Entry, Mid, Senior, and Executive salary progression.
 Pie chart showing salary gap in portion.
 map chart signifying salary range.
 
-POTENTIAL QUESTIONS
+**POTENTIAL QUESTIONS**
+
 1.⁠ ⁠What is the average salary growth as employees move from mid-level to senior-level roles?
 
 2.⁠ ⁠What is the salary gap between part-time and full-time employees?
@@ -52,7 +65,8 @@ POTENTIAL QUESTIONS
 
 5.⁠ ⁠Do larger companies pay more than small or medium companies?
 
-EXPECTED INSIGHTS
+**EXPECTED INSIGHTS**
+
 1.⁠ ⁠Salaries are expected to increase significantly when moving from mid-level to senior-level, reflecting higher responsibility and leadership.
 
 2.⁠ ⁠Full-time employees typically earn higher annual salaries.
@@ -67,7 +81,7 @@ EXPECTED INSIGHTS
 
 7.⁠ ⁠larger companies generally pay more, as they have bigger budgets, global exposure, and structured pay scales.
 
-IN ANALYSIS OBSERVATION
+**IN ANALYSIS OBSERVATION**
 
 This dataset captures a global view of employees salaries and work structures. It combines details about how people work (employment type, remote ratio), what they do (job titles), where they live and work (residence vs company location), and organizational characteristics (company size).
 
@@ -89,7 +103,7 @@ Israel, the US, Puerto Rico, Russia, and Canada lead with the highest salary ave
 General Cross-Level Patterns:
 Across all experience levels, medium-sized companies consistently pay the most. Full time employees earn around the benchmark or slightly above, while part-time and freelance workers earn significantly below average. Data Engineers consistently rank as the highest earners in every experience group, followed by Data Scientists, Analysts, and ML Engineers.
 
-IN ANLYSIS- INSIGHTS
+**IN ANLYSIS- INSIGHTS**
 
 Experience Level:
 Salaries increase steadily with experience, showing a strong progression system. The biggest jumps occur at senior and executive levels, motivating long-term retention. Entry-level roles earn the least but act as growth pipelines.
@@ -103,7 +117,7 @@ Data Engineers receive the highest salary share due to the critical need for str
 Geographical Salary Trends:
 Countries like Israel, the US, Japan, and Canada pay exceptionally high salaries due to strong tech ecosystems. Europe shows wide variations, while developing regions such as India, Vietnam, and Bolivia have significantly lower averages. Some countries like Puerto Rico, Russia, and Bosnia show unusually high salaries, likely due to niche markets. African nations vary, with Nigeria standing out as a potential regional tech hub.
 
-GENERAL OBSERVATIONS
+**GENERAL OBSERVATIONS**
 
 Experience Levels:
 Salaries increase consistently from entry level ($78K) to mid-level ($104K), senior ($153K), and executive roles ($195K), showing a clear upward salary progression.
@@ -117,17 +131,17 @@ Medium-sized companies consistently contribute the largest salary totals at ever
 Job Titles:
 Data Engineers earn the highest salary totals across all levels, followed by Data Scientists. Data Analysts rank lower, and ML Engineers consistently have the smallest salary totals, reflecting fewer roles but strong specialization.
 
-GENERAL RECOMMENDATIONS/INSIGHTS
+**GENERAL RECOMMENDATIONS/INSIGHTS**
 
 Organizations should promote clear career progression to retain talent as salaries rise significantly at senior levels. Medium-sized companies can continue leveraging competitive pay to attract skilled professionals, while larger firms may need to reassess compensation strategies. Full-time roles should remain a priority for core data functions, and greater investment should be placed in high-value roles such as Data Engineers. Finally, region-specific pay strategies and continuous skill development at entry and mid levels can help organizations remain competitive and build sustainable data teams.
 
-CONCLUSION
+**CONCLUSION**
 
 The findings show that salaries in data careers rise steadily with experience, with the highest pay at senior and executive levels, highlighting the strong value placed on expertise and leadership. Medium-sized companies consistently offer the highest total salary contributions, while full-time employees earn more than contract, freelance, and part-time workers 
 
 Data Engineers are the highest-paid roles across all experience levels due to their critical role in data infrastructure, followed by Data Scientists, while ML Engineers represent a smaller but high-growth segment. Significant regional salary disparities exist, with countries like the US, Israel, and Canada offering the most competitive pay due to advanced tech ecosystems.
 
-REFERENCES
+**REFERENCES**
 
 Deloitte. (2022). Global Human Capital Trends.
 
