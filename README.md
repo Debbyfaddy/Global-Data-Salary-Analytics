@@ -4,7 +4,15 @@
 
 I'm delighted to share my very first post on this platform as i progress with my learning as a Data analyst @VephlaUni. I built this dashboard to explore global salary trends across experience levels, job roles, company sizes and regions.
 
-PROJECT SPLIT
+DATA SPLITTING AND PROCESSING
+
+Data Cleaning
+
+To ensure the dataset was accurate, reliable, and ready for analysis, several data cleaning steps were performed. Duplicate records were checked and removed to avoid repeated salary counts that could distort salary averages and trends. Inconsistent entries in categorical variables such as employment type, company size, and experience level were standardized for uniformity. Errors in salary formatting and country naming conventions were corrected to improve consistency across the dataset. Columns that were not relevant to the analysis were excluded to maintain focus on the core workforce and salary indicators.
+
+STAKE HOLDERS
+
+Human Resource Managers Talent Acquisition Teams Senior Management and Executives
 
 Category One (independent value) 
 
